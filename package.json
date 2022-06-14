@@ -1,0 +1,26 @@
+{
+  "name": "acure-gen",
+  "version": "1.0.0",
+  "description": "Acure Account Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waki285/acure-gen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waki285/acure-gen/issues"
+  },
+  "homepage": "https://github.com/waki285/acure-gen#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
+}
